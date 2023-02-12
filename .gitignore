@@ -1,0 +1,4 @@
+SENet/models/
+__pycache__/
+SENet/SENet/
+VGGNet/data/
